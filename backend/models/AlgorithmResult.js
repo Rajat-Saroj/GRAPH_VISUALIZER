@@ -106,7 +106,7 @@ module.exports = mongoose.model('AlgorithmResult', algorithmResultSchema);
 //   },
 //   createdBy: {
 //     type: String,
-//     default: 'Lalit Kumar Yadav'
+//     default: 'RAJAT'
 //   },
 //   createdAt: {
 //     type: Date,
