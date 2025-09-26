@@ -16,7 +16,7 @@ app.use(cors({
     'http://127.0.0.1:3000',
     'http://localhost:5173',        // ← Add this for Vite
     'http://127.0.0.1:5173',       // ← Add this too
-    'https://shortest-path-ui.onrender.com'  // For production
+    'https://graph-visualizer-0.onrender.com'  // For production
   ],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
